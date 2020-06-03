@@ -6,6 +6,7 @@
     ]
   },
   "hosting": {
+    "site": "space-b",
     "public": "public",
     "ignore": [
       "firebase.json",
